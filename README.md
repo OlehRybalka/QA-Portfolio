@@ -8,7 +8,7 @@ Fast learning, competent and budding Quality Assurance Engineer with 5 years of 
 ### Technologies :computer:
 * HTML / CSS / [XPath](https://drive.google.com/file/d/1h1biAMYD6_sgqwJrylLaSAtWpI7RkaZr/view?usp=sharing)
 * Rest API testing
-* [Postman]([Example 1](https://drive.google.com/file/d/1plYaxC6GKev5QzA67sZrG-T9qpnAxQ-k/view?usp=sharing), [Example 2](https://app.screencast.com/hhbLXF9MXBwA0))
+* Postman ([Example 1](https://drive.google.com/file/d/1plYaxC6GKev5QzA67sZrG-T9qpnAxQ-k/view?usp=sharing), [Example 2](https://app.screencast.com/hhbLXF9MXBwA0))
 * [Fiddler](https://drive.google.com/file/d/1uXwqZkL6tckrVP_NStuZSwbfXi68dLfa/view?usp=sharing)
 * SQL ([MySQL Example 1](https://drive.google.com/file/d/12FUXWhfBDARw3MEj9sgfsDwKzOjg_n3N/view?usp=sharing), [MySQL Example 2](https://drive.google.com/file/d/18nBwWVy5pC5CejWvnHoiq5kjvdLq9_hu/view?usp=sharing))
 * Basic JavaScript
